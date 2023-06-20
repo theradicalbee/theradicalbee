@@ -1,4 +1,11 @@
-# Hello, World! 🖥️
+# Hello, World! 🖳
+My name is Abdul-Jabbar Bozdar. I am an electronics engineer, systems programmer, and maths master.
+
+You can find me at:
++ [My website](https://iambozdar.com)
++ [Telegram](https://t.me/iambozdar)
++ [Twitter](https://twitter.com/iambozdar)
++ [Recursion](https://github.com/iambozdar)
 
 <!--
 - 🔭 I’m currently working on ...
