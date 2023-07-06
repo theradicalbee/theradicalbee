@@ -4,6 +4,7 @@ My name is Abdul-Jabbar Bozdar. I am an electronics engineer, systems programmer
 You can find me at:
 + [My website](https://iambozdar.com)
 + [Telegram](https://t.me/iambozdar)
++ <a rel="me" href="https://fosstodon.org/@iambozdar">Mastodon</a>
 + [Twitter](https://twitter.com/iambozdar)
 + [Recursion](https://github.com/iambozdar)
 
