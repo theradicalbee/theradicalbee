@@ -1,13 +1,6 @@
 # Hello, World! 🖳
 I am a C programmer. My hobbies are reading books, taking notes in a diary, and going to parks. I am just an ordinary person.  
 
-You can find me at:  
-+ [My website](https://radicalbee.com)
-+ [Telegram](https://t.me/radicalbee)
-+ <a rel="me" href="https://fosstodon.org/@radicalbee">Mastodon</a>
-+ [Twitter](https://twitter.com/radicalbee)
-+ [Recursion](https://github.com/theradicalbee)
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
